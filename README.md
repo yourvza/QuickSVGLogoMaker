@@ -39,6 +39,11 @@ contributors should know the the installation steps above
 <https://marketplace.visualstudio.com/items?itemName=jock.svg>
 <https://github.com/SBoudrias/Inquirer.js>
 
+## Links
+* https://github.com/yourvza/QuickSVGLogoMaker
+* [SvgLogoMaker.webm](https://github.com/yourvza/QuickSVGLogoMaker/assets/155742735/6b225ef9-7890-49a9-a235-d7d15a52f448)
+
+
 ## Questions?
 
 Contact alfredotumax026@gmail.com for any questions and to veiw more projects, go to https://github.com/yourvza
